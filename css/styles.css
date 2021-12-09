@@ -24,9 +24,9 @@
     list-style: none;
 }
 #Projects {
+    height: 100vh;
     background-color: thistle;
     background: radial-gradient(circle,thistle) 100%;
-
 }
 #author {
     color: chocolate;
