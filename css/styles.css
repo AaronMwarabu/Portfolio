@@ -18,13 +18,14 @@
     background-color: thistle;
     margin-bottom: -2%;
     height: 120vh;
-    line-height: 3rem;
+    line-height: 2rem;
 }
 .About ul {
     list-style: none;
 }
 #Projects {
     background-color: thistle;
+    background: radial-gradient(circle,thistle) 100%;
 
 }
 #author {
